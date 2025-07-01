@@ -1,4 +1,4 @@
-module github.com/joeshaw/carwings
+module github.com/docolli/carwings
 
 go 1.12
 
